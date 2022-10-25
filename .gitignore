@@ -1,0 +1,25 @@
+# Django #
+*.log
+*.pot
+*.pyc
+db.sqlite3
+__pycache__
+
+
+# Venv #
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+spottedenv/
+
+# Other #
+static-transpile/
+.ebextensions/
+.vscode/
+.transpile/
+.DS_Store
+.pylintrc
